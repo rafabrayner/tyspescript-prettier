@@ -1,6 +1,6 @@
 module.exports = {
   ...require('eslint-config-google'),
-  "bracketSpacing": true,
+  "bracketSpacing": false,
   "tabWidth": 2,
   "useTabs": false,
   "trailingComma": "all",
