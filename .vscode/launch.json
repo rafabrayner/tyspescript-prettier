@@ -34,8 +34,7 @@
       // the debugger. If "restart" is set to false, then every time you save
       // new changes to your code while running nodemon, you will need
       // to re-run the debugger
-      "restart": true,
-      "protocol": "inspector"
+      "restart": true
     }
   ]
 }
